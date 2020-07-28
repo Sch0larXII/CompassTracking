@@ -1,0 +1,5 @@
+name: CompassTracking
+author: Sch0larXII
+version: 1.0
+main: me.Sch0larXII.Track.CompassTracking
+description: compass that tracks players
